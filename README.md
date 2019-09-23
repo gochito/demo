@@ -6,4 +6,4 @@ This is a simple readme file
 
 PUNUN PUNUN
 
-Aqui pondremos las turmas
+Aqui pondremos las variaciones
