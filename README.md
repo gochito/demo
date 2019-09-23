@@ -6,4 +6,4 @@ This is a simple readme file
 
 PUNUN PUNUN
 
- Espero que sea una cojedera
+Aqui pondremos las turmas
